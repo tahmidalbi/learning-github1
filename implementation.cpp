@@ -13,6 +13,10 @@ public class feature1{
 
 };
 
+public class feature2{
+
+};
+
 int main(){
 
 }
